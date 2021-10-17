@@ -1,0 +1,8 @@
+all details will be saved to same directory as of application
+1. You have to sign up first
+2. A username will be given to you
+3. You have to create your password then
+4. Login then using Username and Password
+5. You are good to go
+
+Regards Team YODA
